@@ -1,6 +1,3 @@
-Here's the corrected version of your content with duplicate entries for C and C++ removed:
-
----
 
 # 💫 About Me:
 💻 Python Developer: Experienced in NumPy and Pandas for data manipulation and analysis.<br><br>📱 React & React Native Enthusiast: Crafting sleek, user-friendly apps with Expo.<br><br>📊 Aspiring Data Scientist: Leveraging data to solve real-world challenges and generate actionable insights  
