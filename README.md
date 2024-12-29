@@ -1,12 +1,104 @@
+<!-- Header Section -->
+<h1 align="center"> 
+  Hi!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> 
+  I'm <a href="#" target="_blank">Satyaprakash</a> 
+</h1>
 
-# 💫 About Me:
-💻 Python Developer: Experienced in NumPy and Pandas for data manipulation and analysis.<br><br>📱 React & React Native Enthusiast: Crafting sleek, user-friendly apps with Expo.<br><br>📊 Aspiring Data Scientist: Leveraging data to solve real-world challenges and generate actionable insights  
+<!-- Background Image Section -->
+<div id="header" align="center">  
+    <img src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" width="400" alt="Coding GIF"/> 
+</div>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/satya_71638) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/satyaprakash-gupta-0b1922316)  
+<!-- Typing Effect Section -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE-DS'27+Undergrad;Aspiring+Data+Analyst;" alt="Typing SVG" />
+    </a>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<!-- Connect Section -->
+<h2 align="center">Connect with me <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" style="max-width: 100%;"></h2>       
+
+<p align="center">
+    Hey there, wanderer! 🖐️ Reach out to me through these platforms: <br><br>
+    <a href="www.linkedin.com/in/satyaprakash-gupta-0b1922316" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="50" /></a>
+</p>
+
+<!-- Email Section -->
+<!--<h4 align="center"> 📩 Get in touch: <a href="mailto:ashita.lonewolf@gmail.com">ashita.lonewolf@gmail.com</a> </h4>-->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Ashita-no-lonewolf&style=for-the-badge" alt="Profile Views" /></p>
+
+<!-- Animated Line Section -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- GitHub Stats Section -->
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashita-no-lonewolf&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashita-no-lonewolf&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashita-no-lonewolf&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashita-no-lonewolf&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashita-no-lonewolf&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashita-no-lonewolf&theme=github_dark" />
+</div>
+
+<br>
+
+<!-- GitHub Trophies Section -->
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-lonewolf&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+</div>
+<br>
+
+<!-- Snake Animation Section -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-snake.svg" />
+</picture>
+
+<!-- Rainbow Line Section -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- Languages, Tools, and Technologies Section -->
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="38"> Languages, Tools, and Technologies </h2>
+
+<table align="center">
+    <tr>
+        <td><strong>Programming Languages</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,python,mysql" alt="Languages" /></td>
+    </tr>
+
+<tr>
+        <td><strong>Developer Tools</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=github&theme=dark"></td>
+</tr>
+    <!--<tr>
+        <td><strong>Frontend Development</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css" alt="Frontend Tools" /></td>
+    </tr>-->
+</table>
+
+<!-- Animated Line Section -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
+<!--
+<h2 align="center"> ⚡ Open Source Contributions & Achievements 🎖️</h2>
+<p align="center">📈 Contributed to Blockchain-based projects | 🏆 Active participant in open-source hackathons.</p>
 
+[![An image of Rupesh's Holopin badges, which links to their profile](https://holopin.me/rupesh)](https://holopin.io/@rupesh)
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Building!;Let's+explore+blockchain!" alt="Typing SVG" />
+    </h1>-->
+
+<!--
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h2 align="center"> ⚡ Course Badges🎖️</h2>-->
