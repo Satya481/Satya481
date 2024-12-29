@@ -80,7 +80,7 @@
 </tr>
     <tr>
         <td><strong>Frontend Development</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,rectjs,react-native-expo,nextjs" alt="Frontend Tools" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,rect.js,reactnativeexpo,nextjs" alt="Frontend Tools" /></td>
     </tr>
 </table>
 
