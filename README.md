@@ -80,7 +80,9 @@
 </tr>
     <tr>
         <td><strong>Frontend Development</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,react,expo,nextjs" alt="Frontend Tools" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,react,expo,nextjs" alt="Frontend Tools" />
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Expo_logo.svg" alt="Expo" />
+        </td>
     </tr>
 </table>
 
