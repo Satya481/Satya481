@@ -21,7 +21,7 @@
 
 <p align="center">
     Hey there, wanderer! 🖐️ Reach out to me through these platforms: <br><br>
-    <a href="www.linkedin.com/in/satyaprakash-gupta-0b1922316" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="50" /></a>
+    <a href="https://www.linkedin.com/in/satyaprakash-gupta-0b1922316" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="50" /></a>
 </p>
 
 <!-- Email Section -->
