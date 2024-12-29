@@ -26,7 +26,7 @@
 
 <!-- Email Section -->
 <!--<h4 align="center"> 📩 Get in touch: <a href="mailto:ashita.lonewolf@gmail.com">ashita.lonewolf@gmail.com</a> </h4>-->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Ashita-no-lonewolf&style=for-the-badge" alt="Profile Views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Satya481&style=for-the-badge" alt="Profile Views" /></p>
 
 <!-- Animated Line Section -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -35,15 +35,15 @@
 <h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashita-no-lonewolf&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya481&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashita-no-lonewolf&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashita-no-lonewolf&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashita-no-lonewolf&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashita-no-lonewolf&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashita-no-lonewolf&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satya481&theme=github_dark" />
 </div>
 
 <br>
@@ -51,15 +51,15 @@
 <!-- GitHub Trophies Section -->
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashita-no-lonewolf&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Satya481&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
 </div>
 <br>
 
 <!-- Snake Animation Section -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ashita-no-lonewolf/Ashita-no-lonewolf/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satya481/Satya481/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satya481/Satya481/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Satya481/Satya481/output/github-snake.svg" />
 </picture>
 
 <!-- Rainbow Line Section -->
