@@ -2,27 +2,27 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual run from the Actions tab
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Game
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Satya481
+          github_user_name: satya481
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg
 
-      - name: Push Snake Animation
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Commit and Push Snake Animation
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+          commit_message: "🐍 Updated GitHub Contribution Snake Animation"
+          branch: main
+          file_pattern: "dist/github-snake*.svg"
