@@ -25,8 +25,10 @@
 </p>
 
 <!-- Email Section -->
-<!--<h4 align="center"> 📩 Get in touch: <a href="mailto:ashita.lonewolf@gmail.com">ashita.lonewolf@gmail.com</a> </h4>-->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Satya481&style=for-the-badge" alt="Profile Views" /></p>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:guptasatyaprakash@gmail.com">guptasatyaprakash@gmail.com</a> </h4>
+
+<!-- Profile Views Counter -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=satya481&style=for-the-badge" alt="Profile Views" /></p>
 
 <!-- Animated Line Section -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -35,15 +37,15 @@
 <h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya481&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satya481&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satya481&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satya481&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satya481&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satya481&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satya481&theme=github_dark" />
 </div>
 
 <br>
@@ -51,16 +53,14 @@
 <!-- GitHub Trophies Section -->
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Satya481&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satya481&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
 </div>
 <br>
 
 <!-- Snake Animation Section -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satya481/Satya481/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satya481/Satya481/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Satya481/Satya481/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/satya481/satya481/output/github-snake.svg" />
+</p>
 
 <!-- Rainbow Line Section -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -87,19 +87,3 @@
 
 <!-- Animated Line Section -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-<!--
-<h2 align="center"> ⚡ Open Source Contributions & Achievements 🎖️</h2>
-<p align="center">📈 Contributed to Blockchain-based projects | 🏆 Active participant in open-source hackathons.</p>
-
-[![An image of Rupesh's Holopin badges, which links to their profile](https://holopin.me/rupesh)](https://holopin.io/@rupesh)
-
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Building!;Let's+explore+blockchain!" alt="Typing SVG" />
-    </h1>-->
-
-<!--
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h2 align="center"> ⚡ Course Badges🎖️</h2>-->
