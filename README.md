@@ -58,9 +58,9 @@
 <br>
 
 <!-- Snake Animation Section -->
-<p align="center">
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-</p>
+
+  ![snake gif](https://github.com/Satya481/Satya481/blob/output/github-snake.svg)
+
 
 <!-- Rainbow Line Section -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
