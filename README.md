@@ -41,11 +41,11 @@
 </div>
 
 <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satya481&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satya481&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satya481&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satya481&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satya481&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satya481&theme=github_dark" />
 </div>
 
 <br>
@@ -53,7 +53,7 @@
 <!-- GitHub Trophies Section -->
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=satya481&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Satya481&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
 </div>
 <br>
 
