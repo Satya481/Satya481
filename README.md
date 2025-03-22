@@ -59,8 +59,7 @@
 
 <!-- Snake Animation Section -->
 <p align="center">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/satya481/satya481/main/github-snake.svg" />
-
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 </p>
 
 <!-- Rainbow Line Section -->
